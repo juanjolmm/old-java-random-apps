@@ -1,0 +1,17 @@
+avi:gmplayer
+mpg:gmplayer
+mpeg:gmplayer
+wmv:gmplayer
+asf:gmplayer
+mp3:xmms
+ini:xedit
+list:xedit
+pdf:xpdf
+jpg:gqview
+txt:xedit
+conf:xedit
+doc:openoffice
+pas:xedit
+rtf:xedit
+wav:xmms
+log:xedit
